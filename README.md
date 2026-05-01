@@ -19,7 +19,7 @@ Locate the provided .env.local file in the root directory and update the DATABAS
         Node environment
         NODE_ENV="development"
 
-# 2. Installation
+# Installation
 Install the necessary dependencies:
 
 Bash
